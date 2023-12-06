@@ -1,4 +1,2 @@
 # Dawn
-This is my first Git repository .
-<br>
-Author - Sanskriti Singh
+Data structure notes (c language )
